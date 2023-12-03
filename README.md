@@ -6,14 +6,14 @@
 
 - 🔭 I’m currently working on [FPTU Academic Blog](https://github.com/Hoang-Phuc3123/AcademicBlogFPTU)
 
-- 🔭 I’m currently working on [Library Management](https://github.com/Hoang-Phuc3123/LibraryManagement/tree/master)
+- 📫 How to reach me: **nguyentu100312@gmail.com | tuntase171712@fpt.edu.vn**
 
-- 📫 How to reach me **nguyentu100312@gmail.com | tuntase171712@fpt.edu.vn**
-
-- 👨‍💻 Somethings about me **I'm a person who always craving for learning new things**
+- 👨‍💻 Somethings about me: **I'm a person who always craving for learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/22763506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22763506" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tunguyen1012vn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tú nguyễn" height="30" width="40" /></a>
 <a href="https://instagram.com/dimatio1423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimatio1423" height="30" width="40" /></a>
 </p>
 
