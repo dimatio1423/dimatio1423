@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Library Management](https://github.com/Hoang-Phuc3123/LibraryManagement/tree/master)
 
-- 📫 How to reach me **nguyentu100312@gmail.com**
+- 📫 How to reach me **nguyentu100312@gmail.com | tuntase171712@fpt.edu.vn**
 
 - 👨‍💻 Somethings about me **I'm a person who always craving for learning new things**
 
